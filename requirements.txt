@@ -1,5 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
+catboost
+xgboost
+scikit-learn
 
--e . # if u run pip install -r requirements.txt this function will run setup.py to build packages
+#-e . # if u run pip install -r requirements.txt this function will run setup.py to build packages

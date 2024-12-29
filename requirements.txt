@@ -7,5 +7,6 @@ xgboost
 scikit-learn
 dill
 flask
+gunicorn
 
 #-e . # if u run pip install -r requirements.txt this function will run setup.py to build packages

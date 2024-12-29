@@ -1,6 +1,6 @@
 # 📊 Student Performance Prediction
 
-PROJECT LINK : https://student-performance-prediction-1jf3.onrender.com
+PROJECT LINK : https://student-performance-prediction-1jf3.onrender.com/predictdata
 
 ## 🚀 Overview
 This project aims to predict students' academic performance based on various socio-economic, demographic, and educational factors. The model uses machine learning techniques to help educators and policymakers understand the key factors influencing student success.
